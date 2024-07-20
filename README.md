@@ -24,13 +24,14 @@ Compartilhando conhecimento com o código SQL no GitHub.
 Dashboard Interativo:
 Explore o dashboard online no Power BI e navegue pelos dados!
 ️ 
-**Ferramentas:**
 
-*Python*
-*Pandas* 
-*SQL*
-*Power BI*
-*Medium*
+
+**Ferramentas:**
+*Python*,
+*Pandas*, 
+*SQL*,
+*Power BI*,
+*Medium* e
 *GitHub*
 
 ## Contribuições:
