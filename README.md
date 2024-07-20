@@ -1,5 +1,5 @@
 
-Turnover - Portfólio de Analista de BI: Desvendando o Turnover com Python, SQL e Power BI
+Desvendando o Turnover com Python, SQL e Power BI
 
 **Olá!**
 
